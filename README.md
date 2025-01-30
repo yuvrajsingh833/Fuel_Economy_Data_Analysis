@@ -32,4 +32,4 @@ _**Q3**_: For all of the models that were produced in 2008 that are still being 
 [Click Here](https://github.com/davidtc8/Fuel_Economy_Data_Analysis/tree/master/Merging%20Datasets) if you want to know the importance of merging datasets together and review the last question of this project to know _**which car was the most fuel efficient in the United States in 2018.**_
 
 ## Credits:
-Data Analyst Udacity Nanodegree Course
+Yuvraj Singh Rathore
